@@ -66,6 +66,7 @@
 			<Item Name="Config path -- constant.vi" Type="VI" URL="../support/Config path -- constant.vi"/>
 			<Item Name="Load config.vi" Type="VI" URL="../support/Load config.vi"/>
 			<Item Name="Config dialog.vi" Type="VI" URL="../support/Config dialog.vi"/>
+			<Item Name="Calculate new position.vi" Type="VI" URL="../support/Calculate new position.vi"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Arduino stepper API.vi" Type="VI" URL="../../Arduino_stepper/Libraries/Arduino stepper/Test Arduino stepper API.vi"/>
