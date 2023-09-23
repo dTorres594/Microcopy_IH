@@ -67,6 +67,8 @@
 			<Item Name="Load config.vi" Type="VI" URL="../support/Load config.vi"/>
 			<Item Name="Config dialog.vi" Type="VI" URL="../support/Config dialog.vi"/>
 			<Item Name="Calculate new position.vi" Type="VI" URL="../support/Calculate new position.vi"/>
+			<Item Name="Setup and move.vi" Type="VI" URL="../support/Setup and move.vi"/>
+			<Item Name="Check move conditions.vi" Type="VI" URL="../support/Check move conditions.vi"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Arduino stepper API.vi" Type="VI" URL="../../Arduino_stepper/Libraries/Arduino stepper/Test Arduino stepper API.vi"/>
