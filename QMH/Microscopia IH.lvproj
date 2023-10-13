@@ -76,6 +76,7 @@
 		<Item Name="Type Definitions" Type="Folder">
 			<Item Name="Arduino config.ctl" Type="VI" URL="../controls/Arduino config.ctl"/>
 			<Item Name="Config dialog states.ctl" Type="VI" URL="../controls/Config dialog states.ctl"/>
+			<Item Name="Motor direction.ctl" Type="VI" URL="../controls/Motor direction.ctl"/>
 			<Item Name="UI Data.ctl" Type="VI" URL="../controls/UI Data.ctl"/>
 		</Item>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
