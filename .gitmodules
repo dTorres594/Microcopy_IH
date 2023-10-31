@@ -1,3 +1,6 @@
 [submodule "Arduino_stepper"]
 	path = Arduino_stepper
 	url = https://github.com/dTorres594/Arduino_stepper.git
+[submodule "Camera"]
+	path = Camera
+	url = https://github.com/PantherLAB/Camera.git
