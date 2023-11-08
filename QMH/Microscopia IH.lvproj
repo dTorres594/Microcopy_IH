@@ -73,6 +73,8 @@
 			<Item Name="Image name -- FGV.vi" Type="VI" URL="../support/Image name -- FGV.vi"/>
 			<Item Name="Save image.vi" Type="VI" URL="../support/Save image.vi"/>
 			<Item Name="Set path.vi" Type="VI" URL="../support/Set path.vi"/>
+			<Item Name="Export to Matlab.vi" Type="VI" URL="../support/Export to Matlab.vi"/>
+			<Item Name="Save reference file -- subVI.vi" Type="VI" URL="../../../Donato Luna/Abeles-Brewster/QMH/support/Save reference file -- subVI.vi"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Arduino stepper API.vi" Type="VI" URL="../../Arduino_stepper/Libraries/Arduino stepper/Test Arduino stepper API.vi"/>
@@ -179,6 +181,7 @@
 				<Item Name="subElapsedTime.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/ElapsedTimeBlock.llb/subElapsedTime.vi"/>
 				<Item Name="subFile Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/express/express input/FileDialogBlock.llb/subFile Dialog.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
+				<Item Name="System Exec.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/system.llb/System Exec.vi"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
 				<Item Name="Three Button Dialog CORE.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog CORE.vi"/>
 				<Item Name="Three Button Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Three Button Dialog.vi"/>
