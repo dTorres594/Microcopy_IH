@@ -30,7 +30,7 @@ if display
     
     for row = 1:m
         for col = 1:n
-            if idx == length(folder_contents); break; end
+            if idx > length(folder_contents); break; end
             subplot(n,m,idx);
             imshow(data(idx).image);
             text(0,...
