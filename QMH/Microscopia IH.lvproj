@@ -76,6 +76,7 @@
 			<Item Name="Export to Matlab.vi" Type="VI" URL="../support/Export to Matlab.vi"/>
 			<Item Name="Save reference file -- subVI.vi" Type="VI" URL="../support/Save reference file -- subVI.vi"/>
 			<Item Name="Get and save image.vi" Type="VI" URL="../support/Get and save image.vi"/>
+			<Item Name="Delay time -- constant.vi" Type="VI" URL="../../Arduino_stepper/Libraries/Arduino stepper/Support/Delay time -- constant.vi"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Arduino stepper API.vi" Type="VI" URL="../../Arduino_stepper/Libraries/Arduino stepper/Test Arduino stepper API.vi"/>
